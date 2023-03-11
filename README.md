@@ -1,4 +1,4 @@
-# Carsons-Village
+# Website-Automation
 • Collaborated as a team to research, design, prototype, and document components of a project whose goal was an automated webpage creation process and an aggregated payment process
 
 • Developed prototypes of a website, NodeJS server, PostgreSQL database and website embedding
